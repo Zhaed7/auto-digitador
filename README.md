@@ -9,6 +9,7 @@ Processamento em Segundo Plano: Utiliza `threading` para realizar a contagem do 
 Delay Estratégico: Pausa de 10 segundos antes de iniciar a digitação, dando tempo suficiente para o usuário focar na janela onde o texto será inserido.
 
 ## Plataformas
-Disponível para sistemas Windows, entretanto em breve estou preparando a versão pra rodar em distro Linux como o Linux Mint
+Disponível para sistemas Windows e Android 
 
-baixe o `exe` para usar no Windows, ele não precisara instalar pastas ou dependencias na sua maquina, ou seja apenas rode o `exe`
+## Instalação: ANDROID
+para instalar no android, baixe o `apk`, logo após na sua loja de aplicativos instale o `Zarchive`, aceite suas permissões, vá ate a pasta `Downloads` e clique no arquivo chamado : `auto-Digitador-Mobile.apk`. ele pedira permissão para instalar programas externos, aceite e continue. quando instalar ele aparecera na pagina inicial. clique nele e siga as instruções, abra o aplicativo e clique em cada um dos botões e ative cada uma das permissões, logo após aparecera uma bolinha roxa que ao clicar abre seu `Macro` no espaço disponivel cole o texto e clique em iniciar e selecione o lugar para ele digitar automaticamente. durante o processo `NÃO MECHA NO CELULAR`
