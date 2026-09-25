@@ -10,3 +10,5 @@ Delay Estratégico: Pausa de 10 segundos antes de iniciar a digitação, dando t
 
 ## Plataformas
 Disponível para sistemas Windows, entretanto em breve estou preparando a versão pra rodar em distro Linux como o Linux Mint
+
+baixe o `exe` para usar no Windows, ele não precisara instalar pastas ou dependencias na sua maquina, ou seja apenas rode o `exe`
